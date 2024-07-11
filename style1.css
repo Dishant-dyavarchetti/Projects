@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    color: green;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+.Pre-requisites,
+.define{
+    border: 1px solid black;
+    height: 350px;
+    width: 500px;
+    padding: 10px;
+    margin-top: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.heading2,
+.heading3 {
+    text-align: center;
+}
+
+.text1 {
+    text-align: center;
+}
+
+.heading4 {
+    text-align: left;
+}
+.link {
+    border: 1px solid black;
+    height: 350px;
+    width: 930px;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+a:hover{
+    transform: scale(2);
+    padding: 5px;
+}
+.link {
+    position: absolute;
+    margin-top: 30px;
+    top: 120px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    
+}
