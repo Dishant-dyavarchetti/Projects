@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Personal Profile Page OF HTML Project">
+        <title>Bubble Sort</title>
+        <link href="style1.css" rel="stylesheet">
+        <!-- <link rel="icon" href="C:\Users\Dishant\Downloads\icon.ico" type="image/x-icon"> -->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins" rel="stylesheet">
+        <!-- <script src="script.js" defer></script> -->
+    </head>
+    <body>
+        <header>
+            <h1 class="heading">Bubble Sort</h1>
+        </header>
+
+        <section> 
+            <div class="Pre-requisites">
+                <h2 class="heading2">Pre-requisites</h2>
+                <br>
+                <p class="text1">GeeksforGeeks is a good platform to learn programming.
+                    It is an educational website that helps prepare for recruitment drives
+                    of product-based companies like Microsoft, Amazon, Adobe, etc.
+                    with a free online placement preparation course. The course focuses
+                    on various MCQs & coding questions likely to be asked in
+                    interviews to make your upcoming placement season efficient and
+                    successful. Also, any geeks can help other geeks by writing articles
+                    on GeeksforGeeks. Publishing articles follows a few steps: articles
+                    that need little modification/improvement from reviewers are published first.
+                    To quickly get your articles reviewed, please refer to existing articles,
+                    their formatting style, and coding style, and try to make your articles
+                    close to them. In case you are a beginner, you may refer to the
+                    guidelines to write an article.</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="define">
+                <h2 class="heading3">What is Bubble Sort and its Advantages</h2>
+                <br>
+                <h3 class="heading4">Bubble Sort</h3>
+                <p>Bubble Sort is the simplest sorting algorithm that 
+                    works by repeatedly swapping the adjacent elements if 
+                    they are in the wrong order. This algorithm is not suitable for 
+                    large data sets as its average and worst-case time complexity is quite high.</p>
+                <h3 class="heading4">Advantages of Bubble Sort Algorithm</h3>
+                <ul>
+                    <li>It is a simple algorithm, easy to understand and implement.</li>
+                    <li>It is beginner-friendly and can be good for explanatory purposes.</li>
+                    <li>The space complexity for the bubble sort algorithm is constant, O(1). 
+                        No additional data or memory is required; it is an in-place sorting algorithm.</li>
+                    <li>It can be adapted easily.</li>
+                    <li>It is a stable algorithm, meaning that it preserves the relative order of equal elements found in the array.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="link">
+                <h2 class="heading5">Click on the links for the algorithm and application of Bubble Sort</h2>
+                <br>
+                <p>Algorithm for Bubble Sort</p>
+                <ul>
+                    <li><a href="algorithm_webpage.html">Algorithm</a></li>
+                </ul>
+                <p>Application and real-life scenario of Bubble Sort</p>
+                <ul>
+                    <li><a href="application_webpage.html">applications and real-life scenario</a></li>
+                </ul>
+            </div>
+        </section>
+    </body>
+</html>
